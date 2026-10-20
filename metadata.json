@@ -1,17 +1,12 @@
 {
-  "name": "Custom Touchpad Gestures",
-  "description": "Deeply customize 3 and 4-finger touchpad gestures.",
+  "name": "Touchpad Gestures Win",
+  "description": "Customize 3- and 4-finger touchpad swipes and taps on GNOME Shell.",
   "uuid": "touchpad-gestures@alpha.com",
   "settings-schema": "org.gnome.shell.extensions.touchpad-gestures",
   "shell-version": [
-    "45",
-    "46",
-    "47",
-    "48",
-    "49",
-    "50"
+    "51"
   ],
-  "url": "https://github.com/Aradhya03/Touchpad-Gestures-Win",
+  "url": "https://github.com/HariLabs-av/Touchpad-Gestures-Win",
   "donations": {
     "kofi": "arad0190"
   }
